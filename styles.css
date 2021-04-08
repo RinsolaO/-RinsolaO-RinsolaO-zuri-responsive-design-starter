@@ -506,11 +506,12 @@ div.footer h6 {
     }
 
     div.hero-content-heading p {
-        margin-left: 6rem;        
+        margin-left: 3rem;        
         font-size: 1rem;
-        width: 200px; 
+        width: 300px; 
     }
     div.hero-content-btn {
+        margin-top : .5rem;        
         margin-left : 1.5rem;
     }
 
